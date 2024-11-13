@@ -1,0 +1,2 @@
+# GeoPolitics
+Global election tracker
